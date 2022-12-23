@@ -1,0 +1,25 @@
+//General Colors
+$white: #fff;
+$black: #000000c1;
+$light-gray: #cececec1;
+
+
+//Light Theme
+// @media (prefers-color-scheme: light) {
+$primary: #5463ff;
+$secondary: #0013e7;
+
+$success: #00ab3f;
+$error: #d00000c1;
+$warning: #d4be00;
+// }
+
+// Dark Theme
+// @media (prefers-color-scheme: dark) {
+$dark-primary: #000755;
+$dark-secondary: #000d9f;
+
+$dark-success: #00782c;
+$dark-error: #8e0101c1;
+$dark-warning: #786c00;
+// }

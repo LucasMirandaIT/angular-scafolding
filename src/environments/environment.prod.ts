@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  genericBEURL: 'https://nodejs-generic-be.herokuapp.com/api'
 };
